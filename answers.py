@@ -1,6 +1,4 @@
-# ============================================
 # Assignment: Data Analysis with Pandas & Matplotlib
-# ============================================
 
 # Importing necessary libraries
 import pandas as pd
